@@ -122,7 +122,7 @@ button.sumit_but {
    
     <img class="img-responsive" src="images/rr.jpg" style="height: 104px;">
 <div class="h5-style-guide eco-ftr-title">Whirlpool 25 cu. ft. 36" Wide French Door Refrigerator
-    <br> <span style="font-weight: 700;"><center>price starting : $500</span>
+    <br> <span style="font-weight: 700;"><center>price starting at : $500</span>
   <p><button style="color: white; background: red; margin-right: 79px;">Add to Cart</button></p></center>
 </div>
 </a>
